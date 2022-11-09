@@ -1,0 +1,2707 @@
+13:39:18.600 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+13:42:48.914 [main] INFO  com.intuit.karate - [print] [
+  {
+    "Name": "Tom",
+    "City": "New york",
+    "Age": "20"
+  },
+  {
+    "Name": "Eric",
+    "City": "Ho Chi Minh",
+    "Age": "30"
+  }
+]
+ 
+13:42:48.919 [main] INFO  com.intuit.karate - [print] {
+  "Name": "Tom",
+  "City": "New york",
+  "Age": "20"
+}
+ 
+13:42:48.921 [main] INFO  com.intuit.karate - [print] Eric Ho Chi Minh 30 
+13:42:48.929 [main] INFO  com.intuit.karate - [print] {
+  "glossary": {
+    "title": "example glossary",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": "SGML",
+          "SortAs": "SGML",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "SGML",
+          "Abbrev": "ISO 8879:1986",
+          "GlossDef": {
+            "para": "A meta-markup language, used to create markup languages such as DocBook.",
+            "GlossSeeAlso": [
+              "GML",
+              "XML"
+            ]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}
+ 
+13:42:48.930 [main] INFO  com.intuit.karate - [print] {
+  "title": "S",
+  "GlossList": {
+    "GlossEntry": {
+      "ID": "SGML",
+      "SortAs": "SGML",
+      "GlossTerm": "Standard Generalized Markup Language",
+      "Acronym": "SGML",
+      "Abbrev": "ISO 8879:1986",
+      "GlossDef": {
+        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+        "GlossSeeAlso": [
+          "GML",
+          "XML"
+        ]
+      },
+      "GlossSee": "markup"
+    }
+  }
+}
+ 
+13:42:49.022 [main] INFO  com.intuit.karate - [print] hello world 
+13:42:49.039 [main] INFO  com.intuit.karate - [print] hello world 
+13:42:49.041 [main] INFO  com.intuit.karate - [print] tong7 
+13:42:49.044 [main] INFO  com.intuit.karate - [print] nhan12 
+16:11:14.089 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667466674088
+16:11:16.103 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:11:16.121 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:11:17.103 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:26:11.408 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:26:11.426 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:26:12.329 [main] INFO  com.intuit.karate - [print] [
+  {
+    "Name": "Tom",
+    "City": "New york",
+    "Age": "20"
+  },
+  {
+    "Name": "Eric",
+    "City": "Ho Chi Minh",
+    "Age": "30"
+  }
+]
+ 
+16:26:12.330 [main] INFO  com.intuit.karate - [print] {
+  "Name": "Tom",
+  "City": "New york",
+  "Age": "20"
+}
+ 
+16:26:12.332 [main] INFO  com.intuit.karate - [print] Eric Ho Chi Minh 30 
+16:26:12.337 [main] INFO  com.intuit.karate - [print] {
+  "glossary": {
+    "title": "example glossary",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": "SGML",
+          "SortAs": "SGML",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "SGML",
+          "Abbrev": "ISO 8879:1986",
+          "GlossDef": {
+            "para": "A meta-markup language, used to create markup languages such as DocBook.",
+            "GlossSeeAlso": [
+              "GML",
+              "XML"
+            ]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}
+ 
+16:26:12.339 [main] INFO  com.intuit.karate - [print] {
+  "title": "S",
+  "GlossList": {
+    "GlossEntry": {
+      "ID": "SGML",
+      "SortAs": "SGML",
+      "GlossTerm": "Standard Generalized Markup Language",
+      "Acronym": "SGML",
+      "Abbrev": "ISO 8879:1986",
+      "GlossDef": {
+        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+        "GlossSeeAlso": [
+          "GML",
+          "XML"
+        ]
+      },
+      "GlossSee": "markup"
+    }
+  }
+}
+ 
+16:26:12.539 [main] INFO  com.intuit.karate - [print] hello world 
+16:26:12.544 [main] INFO  com.intuit.karate - [print] hello world 
+16:26:12.546 [main] INFO  com.intuit.karate - [print] tong7 
+16:26:12.549 [main] INFO  com.intuit.karate - [print] nhan12 
+16:30:26.166 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667467826165
+16:30:28.110 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:30:28.130 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:30:28.132 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:30:28.134 [main] ERROR com.intuit.karate - src/test/java/features/getAPI.feature:14
+* match actName = 'Agnimitra Saini'
+syntax error, expected '==' for match
+src/test/java/features/getAPI.feature:14
+16:30:29.005 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:30:57.941 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667467857940
+16:30:59.876 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:30:59.892 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:30:59.896 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:31:00.868 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:32:27.307 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667467947306
+16:32:28.714 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:32:29.124 [main] DEBUG com.intuit.karate - response time in milliseconds: 408
+1 < 200
+1 < Date: Thu, 03 Nov 2022 09:32:29 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 8cfa0b6f-6621-4882-a5b0-075e2d53e587
+1 < x-runtime: 0.010671
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oSdmHYWOElpJaYb3HThy0EpLHLXdilL%2F1fn342a388PeFrB6fgwvV264UkfZZFcVVodhj0PGLTCiOLn2Fk9zLghX7o6LFojNYkhZv1g4fSuvOqOxsSqbiUYUI1DiyiE%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76441a5e79cc91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+16:32:29.235 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:32:29.252 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:32:29.254 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:32:29.270 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:32:29.486 [main] DEBUG com.intuit.karate - response time in milliseconds: 216
+1 < 404
+1 < Date: Thu, 03 Nov 2022 09:32:30 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 99837312-1a43-48ad-94d2-2f18b547960f
+1 < x-runtime: 0.009460
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2vMmgpJw33gNsPzdSAHx5dQhCYpeSf4VgjWMVRU00JlLRVS%2Fs3H6ed3QXUH80Pcs4oQtSnTuyERBmDrCVbsYTwhvE7PkIKE%2BC9T2jXIuA72hwXGMdecHz6TRcqBEGaA%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76441a60dd7a91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+16:32:30.135 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:32:40.886 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:32:41.299 [main] DEBUG com.intuit.karate - response time in milliseconds: 408
+1 < 200
+1 < Date: Thu, 03 Nov 2022 09:32:42 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 72de7bca-fb52-4f8a-a509-4ca5e857a3e2
+1 < x-runtime: 0.010985
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CcDoiwxkHRZ%2Feo1TgDXrfndhRdHpin%2BGwb9U4ySI8dmevolKXcgyBY3af7%2BCp02hz2gex9mbGdKB%2BXSGq66GFSkaLc21m7iJFLlZHAR5MrCC9wg3wJLYNT5o9hcugqE%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76441aaa6e2591b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+16:32:41.469 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:32:41.486 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:32:41.490 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:32:41.509 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:32:41.723 [main] DEBUG com.intuit.karate - response time in milliseconds: 214
+1 < 404
+1 < Date: Thu, 03 Nov 2022 09:32:42 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 82c75afa-42cd-4615-9b82-de690aac6147
+1 < x-runtime: 0.009096
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YyB5bqFksBjk7Eh41FDj6mwB0cn5nkjRqSuFF7RUc7uYNL7pmCotbzGDXkb7cSOST1VB6IVNBrPdsdO6%2FS6oZEd%2BxElD%2BWRMLJDWFKxLbLhq68hz7z8v6Vsbds5thAc%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76441aad5ad691b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+16:32:42.355 [main] INFO  com.intuit.karate - [print] [
+  {
+    "Name": "Tom",
+    "City": "New york",
+    "Age": "20"
+  },
+  {
+    "Name": "Eric",
+    "City": "Ho Chi Minh",
+    "Age": "30"
+  }
+]
+ 
+16:32:42.356 [main] INFO  com.intuit.karate - [print] {
+  "Name": "Tom",
+  "City": "New york",
+  "Age": "20"
+}
+ 
+16:32:42.358 [main] INFO  com.intuit.karate - [print] Eric Ho Chi Minh 30 
+16:32:42.365 [main] INFO  com.intuit.karate - [print] {
+  "glossary": {
+    "title": "example glossary",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": "SGML",
+          "SortAs": "SGML",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "SGML",
+          "Abbrev": "ISO 8879:1986",
+          "GlossDef": {
+            "para": "A meta-markup language, used to create markup languages such as DocBook.",
+            "GlossSeeAlso": [
+              "GML",
+              "XML"
+            ]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}
+ 
+16:32:42.366 [main] INFO  com.intuit.karate - [print] {
+  "title": "S",
+  "GlossList": {
+    "GlossEntry": {
+      "ID": "SGML",
+      "SortAs": "SGML",
+      "GlossTerm": "Standard Generalized Markup Language",
+      "Acronym": "SGML",
+      "Abbrev": "ISO 8879:1986",
+      "GlossDef": {
+        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+        "GlossSeeAlso": [
+          "GML",
+          "XML"
+        ]
+      },
+      "GlossSee": "markup"
+    }
+  }
+}
+ 
+16:32:42.438 [main] INFO  com.intuit.karate - [print] hello world 
+16:32:42.443 [main] INFO  com.intuit.karate - [print] hello world 
+16:32:42.445 [main] INFO  com.intuit.karate - [print] tong7 
+16:32:42.450 [main] INFO  com.intuit.karate - [print] nhan12 
+16:36:42.113 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667468202112
+16:36:43.508 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:36:43.987 [main] DEBUG com.intuit.karate - response time in milliseconds: 477
+1 < 200
+1 < Date: Thu, 03 Nov 2022 09:36:44 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 865c1236-46c9-4261-b208-0188718582a8
+1 < x-runtime: 0.023725
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Qh7tByS4JE%2Bl3L3yLxkJget2DvoZECy1G6fTyY2Gc3ERn5tsdJnhh64dsy1NDVfoPJ4Snvm%2BBzYe2NHIjPzF1JyEBvTXNcgck5Mf%2F%2FYXbhkGKo8fqlOFsoSHtAOdMu4%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764420974ef491b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+16:36:44.095 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:36:44.112 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:36:44.114 [main] DEBUG c.intuit.karate.core.ScenarioEngine - over-writing existing variable 'actName' with new value: jsonResponse.data.name
+16:36:44.116 [main] DEBUG c.intuit.karate.core.ScenarioEngine - over-writing existing variable 'actName' with new value: jsonResponse.data.email
+16:36:44.118 [main] INFO  com.intuit.karate - [print] agnimitra_saini@smith-cummings.io 
+16:36:44.133 [main] ERROR com.intuit.karate - src/test/java/features/getAPI.feature:16
+* match id == '30'
+js failed:
+>>>>
+01: id
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "id" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/getAPI.feature:16
+16:36:44.142 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:36:44.428 [main] DEBUG com.intuit.karate - response time in milliseconds: 286
+1 < 404
+1 < Date: Thu, 03 Nov 2022 09:36:45 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 00bd6ba9-eea9-4596-879e-ac5c2c5b1da9
+1 < x-runtime: 0.008327
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7byhGRQzrqiM5GF30f7AqUynB20VX2Cxkrzye2g0pnqFcXZCc4FtsgVd8eTr7SUstcxB2%2BPCOcu8BnTD3BiBNa7Earm5cnAI9Q0PT5z5lBt%2Bwkinbwuqr%2Bh7%2BOhDQQE%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644209a4b0891b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+16:36:45.127 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:40:25.275 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667468425274
+16:40:26.679 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:40:27.193 [main] DEBUG com.intuit.karate - response time in milliseconds: 511
+1 < 200
+1 < Date: Thu, 03 Nov 2022 09:40:27 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 17e4266a-f5b2-404d-9cd2-bf37c3ccf091
+1 < x-runtime: 0.009512
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ceYHQc1d8zMiiKJr18NaUYXlxM1iLXCSHQyL%2B5Mfov7h7kNTB95MkaxBcGPJHxcYCLZVbRsyToIQRQ3h3rkhFxzvHbmZgWMxHIhlYd43nM63yAuK5Nm0vC6Fw%2FhWtmI%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76442609ceb891b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+16:40:27.304 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:40:27.320 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:40:27.324 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:40:27.333 [main] ERROR com.intuit.karate - src/test/java/features/getAPI.feature:16
+* match actId == '30'
+match failed: EQUALS
+  $ | data types don't match (NUMBER:STRING)
+  30
+  '30'
+
+src/test/java/features/getAPI.feature:16
+16:40:27.340 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:40:27.551 [main] DEBUG com.intuit.karate - response time in milliseconds: 210
+1 < 404
+1 < Date: Thu, 03 Nov 2022 09:40:28 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 71669780-3f61-473b-a7e5-d35dfbcf19d1
+1 < x-runtime: 0.009934
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yoIwosyc8OLPF3hnfwJR0Xn4jXhNz8C8WxwuFG6h5dwBh4O3J%2BEUWTylHVGespMkFJt9gabOl8z4OO5S4t0yrQCF0nA%2BjzLqcM3PwFH5wQM4UWqXnpdX6fncuDlQwVI%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644260ccd0691b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+16:40:28.204 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:43:13.916 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667468593915
+16:43:15.342 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:43:15.776 [main] DEBUG com.intuit.karate - response time in milliseconds: 431
+1 < 200
+1 < Date: Thu, 03 Nov 2022 09:43:16 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: ce7ea3fc-cabb-431d-a782-b6112b13029d
+1 < x-runtime: 0.024069
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3KHAShFD4WauB6E%2FbfnSe21YT99zEw8nv4vEajz1vcZxXcJg5uKCo82Xl%2BbmZMiDKK1flsIw9jJclD4%2BWKWWB9VELUB%2FDEgcgYA1X4NMr6PfUisbcQYJ7ZIdYzQZ1Lo%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76442a280a2391b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+16:43:15.887 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:43:15.903 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:43:15.908 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:43:15.928 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:43:16.217 [main] DEBUG com.intuit.karate - response time in milliseconds: 287
+1 < 404
+1 < Date: Thu, 03 Nov 2022 09:43:17 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: a9a00b31-a16c-4cad-9d9a-32c68d685935
+1 < x-runtime: 0.011263
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kN%2B1kwBsUUUjHGT8bRagzGW%2Bm%2Ba1JNdZ%2BCaGwGmrsuPFgGhJe8GTus3A8Fs8jXYE%2Fv8ejbUTAYwGzBobZHX5gtOrAqt697dDC3KvwdRy6VwyRuxwa3%2Bt2%2B9hAQo2ne8%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76442a2afe4691b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+16:43:16.837 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+16:50:52.030 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:50:52.483 [main] DEBUG com.intuit.karate - response time in milliseconds: 446
+1 < 200
+1 < Date: Thu, 03 Nov 2022 09:50:53 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 747e8a20-400c-48a3-af22-b2ab37eb7bb0
+1 < x-runtime: 0.009163
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Rsp1mAEgE0IjvMEth8n3%2BH96OfDD8zkmQrOLeY7mcKWxWZXV2DtMbaJsYfBDB7zgUs9Nd%2BvNDK8h88gkGaqOFkH%2BQN0ZI2rEFhSUufU7DgfT8iGbaZn6iltSjMdP%2BtI%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644354e6c5f91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+16:50:52.654 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:50:52.680 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+16:50:52.685 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+16:50:52.720 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+16:50:52.928 [main] DEBUG com.intuit.karate - response time in milliseconds: 207
+1 < 404
+1 < Date: Thu, 03 Nov 2022 09:50:53 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 8fb4b26e-b85d-47f2-a05d-fb3c88ce49e0
+1 < x-runtime: 0.010834
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=J8nU1TTIpmPm5AbhvOSrId1lsf2Q347TEDWMy%2FRZ6zGsVfNVCOj2w%2BcnqxgroMnK%2B%2Bma52oa0JtN54BFzhcos8KV80iafmLslOvrzqVCJJK3rbASZ7XT9xTg3aphceE%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76443551694d91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+16:50:54.041 [main] INFO  com.intuit.karate - [print] [
+  {
+    "Name": "Tom",
+    "City": "New york",
+    "Age": "20"
+  },
+  {
+    "Name": "Eric",
+    "City": "Ho Chi Minh",
+    "Age": "30"
+  }
+]
+ 
+16:50:54.043 [main] INFO  com.intuit.karate - [print] {
+  "Name": "Tom",
+  "City": "New york",
+  "Age": "20"
+}
+ 
+16:50:54.045 [main] INFO  com.intuit.karate - [print] Eric Ho Chi Minh 30 
+16:50:54.053 [main] INFO  com.intuit.karate - [print] {
+  "glossary": {
+    "title": "example glossary",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": "SGML",
+          "SortAs": "SGML",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "SGML",
+          "Abbrev": "ISO 8879:1986",
+          "GlossDef": {
+            "para": "A meta-markup language, used to create markup languages such as DocBook.",
+            "GlossSeeAlso": [
+              "GML",
+              "XML"
+            ]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}
+ 
+16:50:54.058 [main] INFO  com.intuit.karate - [print] {
+  "title": "S",
+  "GlossList": {
+    "GlossEntry": {
+      "ID": "SGML",
+      "SortAs": "SGML",
+      "GlossTerm": "Standard Generalized Markup Language",
+      "Acronym": "SGML",
+      "Abbrev": "ISO 8879:1986",
+      "GlossDef": {
+        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+        "GlossSeeAlso": [
+          "GML",
+          "XML"
+        ]
+      },
+      "GlossSee": "markup"
+    }
+  }
+}
+ 
+16:50:54.160 [main] INFO  com.intuit.karate - [print] hello world 
+16:50:54.167 [main] INFO  com.intuit.karate - [print] hello world 
+16:50:54.171 [main] INFO  com.intuit.karate - [print] tong7 
+16:50:54.176 [main] INFO  com.intuit.karate - [print] nhan12 
+17:21:45.268 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:21:45.271 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667470905271
+17:21:46.149 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:21:46.204 [main] ERROR com.intuit.karate - src/test/java/features/getAPI.feature:5
+Given url baseUrl'/public/v1/users'
+js failed:
+>>>>
+01: baseUrl'/public/v1/users'
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:8 Expected ; but found /public/v1/users
+baseUrl'/public/v1/users'
+        ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:401)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:141)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:137)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1344)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2373)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2292)
+- com.intuit.karate.core.ScenarioEngine.url(ScenarioEngine.java:365)
+
+src/test/java/features/getAPI.feature:5
+17:21:46.210 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:21:46.213 [main] ERROR com.intuit.karate - src/test/java/features/getAPI.feature:21
+Given url baseUrl'/public/v1/users'
+js failed:
+>>>>
+01: baseUrl'/public/v1/users'
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:8 Expected ; but found /public/v1/users
+baseUrl'/public/v1/users'
+        ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:401)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:141)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:137)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1344)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2373)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2292)
+- com.intuit.karate.core.ScenarioEngine.url(ScenarioEngine.java:365)
+
+src/test/java/features/getAPI.feature:21
+17:21:46.974 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+17:23:08.493 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:23:08.497 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667470988497
+17:23:09.345 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:23:10.040 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:23:10.582 [main] DEBUG com.intuit.karate - response time in milliseconds: 540
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:23:11 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 53542388-a4a8-49f2-af0b-ad83cceb6460
+1 < x-runtime: 0.011404
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MQfDdwLjDnhUcqS66NGYcrMhMXwEE7QiSxpSJ4LM3sesGz8z5ovI0PDU4offCBfRT2FATQMVG642fWyuD0i5LdHSX8HdY5%2BDYw6%2FrjNaN1Utc9bscaPpy1ua8J25m9Y%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644649eec9691b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+17:23:10.678 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+17:23:10.682 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+17:23:10.686 [main] INFO  com.intuit.karate - [print] Agnimitra Saini 
+17:23:10.702 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:23:10.706 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/1
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:23:11.027 [main] DEBUG com.intuit.karate - response time in milliseconds: 320
+1 < 404
+1 < Date: Thu, 03 Nov 2022 10:23:11 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 712d762a-19ac-4a80-a4c6-c7d3c4bcec13
+1 < x-runtime: 0.008939
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=X%2B%2F1WeLLbKg%2F0O8mckxejg0xfsv38EA2u%2FpDnOJ9%2BjpHqKMdUMhf3M2A29mIT3DdtSGDW3tKew6K3pecQGm3ggXGmnLKFgDOP4ADUg%2FXhwpTKstxZ1r4YNjDqoso3yk%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764464a1c88a91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"message":"Resource not found"}}
+
+17:23:11.592 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/getAPI.feature
+17:32:23.506 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: src/test/java/features/GetApiWithQuery.feature - mismatched input '*' expecting <EOF>
+17:32:36.262 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:32:36.265 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667471556265
+17:32:37.108 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:32:37.889 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:32:38.432 [main] DEBUG com.intuit.karate - response time in milliseconds: 539
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:32:39 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"c389f7495e15bc45936aff1999e232a1"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 226a379e-75fe-4845-8b4c-eb6310b1b652
+1 < x-runtime: 0.024462
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=GfTo2OTYA5bByxwS90Afd2DpEBq1fdLoxFP2vj%2BJWnZ9ZJVFTimDMqkm%2BIsBaqPxhTsoC%2FtJqQzxJFE1BUZGJ11m1IUSGXVyJiiPqyM%2FJWbVx3nHJDLjNpn0DDvJUF0%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644727c6a6d91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":1710,"pages":171,"page":1,"limit":10,"links":{"previous":null,"current":"https://gorest.co.in/public/v1/users?page=1","next":"https://gorest.co.in/public/v1/users?page=2"}}},"data":[{"id":3393,"name":"Sen. Gajaadhar Johar","email":"johar_gajaadhar_sen@mcdermott.net","gender":"female","status":"active"},{"id":3392,"name":"Dhara Varma","email":"varma_dhara@kuvalis.biz","gender":"male","status":"active"},{"id":3391,"name":"Vrund Butt","email":"vrund_butt@fay.name","gender":"female","status":"active"},{"id":3390,"name":"Sukanya Khanna","email":"khanna_sukanya@reynolds.net","gender":"male","status":"active"},{"id":3389,"name":"Mr. Tanya Desai","email":"mr_desai_tanya@grant.co","gender":"male","status":"active"},{"id":3386,"name":"Chinmayanand Bharadwaj IV","email":"chinmayanand_bharadwaj_iv@torphy.net","gender":"male","status":"active"},{"id":3385,"name":"Aaryan Chattopadhyay","email":"aaryan_chattopadhyay@heidenreich.co","gender":"female","status":"active"},{"id":3382,"name":"Aanandaswarup Prajapat","email":"prajapat_aanandaswarup@hayes-prohaska.com","gender":"male","status":"active"},{"id":3381,"name":"Siddhi Kaul","email":"siddhi_kaul@lebsack-borer.name","gender":"male","status":"active"},{"id":3380,"name":"Aagneya Somayaji LLD","email":"somayaji_lld_aagneya@corkery-stracke.co","gender":"female","status":"active"}]}
+
+17:32:38.440 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 1710,
+      "pages": 171,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 3393,
+      "name": "Sen. Gajaadhar Johar",
+      "email": "johar_gajaadhar_sen@mcdermott.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3392,
+      "name": "Dhara Varma",
+      "email": "varma_dhara@kuvalis.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3391,
+      "name": "Vrund Butt",
+      "email": "vrund_butt@fay.name",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3390,
+      "name": "Sukanya Khanna",
+      "email": "khanna_sukanya@reynolds.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3389,
+      "name": "Mr. Tanya Desai",
+      "email": "mr_desai_tanya@grant.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3386,
+      "name": "Chinmayanand Bharadwaj IV",
+      "email": "chinmayanand_bharadwaj_iv@torphy.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3385,
+      "name": "Aaryan Chattopadhyay",
+      "email": "aaryan_chattopadhyay@heidenreich.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3382,
+      "name": "Aanandaswarup Prajapat",
+      "email": "prajapat_aanandaswarup@hayes-prohaska.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3381,
+      "name": "Siddhi Kaul",
+      "email": "siddhi_kaul@lebsack-borer.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3380,
+      "name": "Aagneya Somayaji LLD",
+      "email": "somayaji_lld_aagneya@corkery-stracke.co",
+      "gender": "female",
+      "status": "active"
+    }
+  ]
+}
+ 
+17:32:39.112 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/GetApiWithQuery.feature
+17:40:34.642 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:40:34.646 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667472034646
+17:40:35.501 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:40:36.302 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?gender=male&status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:40:36.907 [main] DEBUG com.intuit.karate - response time in milliseconds: 602
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:40:37 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"2e45d1af7e79ea2916edae5cea3618d9"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 1f5e4745-bd8e-45b5-a394-80b9be85b796
+1 < x-runtime: 0.021277
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vwEEay1djrOS2zJDrYU3IqQ%2BAeqp79ATphmMje%2FJbpyG7bER%2BMy%2FjX4ogtL3W6dPJ3oeieAWP7b%2BuvJWd5%2Fi5tHMzO9jAtI20gFCuw%2BSlLEGyqSRyFBpyRBHebsvACs%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76447e2a5e0191b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":844,"pages":85,"page":1,"limit":10,"links":{"previous":null,"current":"https://gorest.co.in/public/v1/users?page=1","next":"https://gorest.co.in/public/v1/users?page=2"}}},"data":[{"id":3392,"name":"Dhara Varma","email":"varma_dhara@kuvalis.biz","gender":"male","status":"active"},{"id":3390,"name":"Sukanya Khanna","email":"khanna_sukanya@reynolds.net","gender":"male","status":"active"},{"id":3389,"name":"Mr. Tanya Desai","email":"mr_desai_tanya@grant.co","gender":"male","status":"active"},{"id":3386,"name":"Chinmayanand Bharadwaj IV","email":"chinmayanand_bharadwaj_iv@torphy.net","gender":"male","status":"active"},{"id":3382,"name":"Aanandaswarup Prajapat","email":"prajapat_aanandaswarup@hayes-prohaska.com","gender":"male","status":"active"},{"id":3381,"name":"Siddhi Kaul","email":"siddhi_kaul@lebsack-borer.name","gender":"male","status":"active"},{"id":3371,"name":"Gorakhnath Ahuja","email":"ahuja_gorakhnath@schuster.org","gender":"male","status":"active"},{"id":3370,"name":"Atmaja Gandhi","email":"atmaja_gandhi@fay.net","gender":"male","status":"active"},{"id":3368,"name":"Aanjaneya Johar LLD","email":"lld_aanjaneya_johar@stanton.com","gender":"male","status":"active"},{"id":3366,"name":"Bheeshma Abbott MD","email":"md_bheeshma_abbott@kuvalis-baumbach.biz","gender":"male","status":"active"}]}
+
+17:40:36.914 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 844,
+      "pages": 85,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 3392,
+      "name": "Dhara Varma",
+      "email": "varma_dhara@kuvalis.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3390,
+      "name": "Sukanya Khanna",
+      "email": "khanna_sukanya@reynolds.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3389,
+      "name": "Mr. Tanya Desai",
+      "email": "mr_desai_tanya@grant.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3386,
+      "name": "Chinmayanand Bharadwaj IV",
+      "email": "chinmayanand_bharadwaj_iv@torphy.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3382,
+      "name": "Aanandaswarup Prajapat",
+      "email": "prajapat_aanandaswarup@hayes-prohaska.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3381,
+      "name": "Siddhi Kaul",
+      "email": "siddhi_kaul@lebsack-borer.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3371,
+      "name": "Gorakhnath Ahuja",
+      "email": "ahuja_gorakhnath@schuster.org",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3370,
+      "name": "Atmaja Gandhi",
+      "email": "atmaja_gandhi@fay.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3368,
+      "name": "Aanjaneya Johar LLD",
+      "email": "lld_aanjaneya_johar@stanton.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3366,
+      "name": "Bheeshma Abbott MD",
+      "email": "md_bheeshma_abbott@kuvalis-baumbach.biz",
+      "gender": "male",
+      "status": "active"
+    }
+  ]
+}
+ 
+17:40:37.506 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/GetApiWithQuery.feature
+17:47:03.865 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:47:03.870 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667472423869
+17:47:04.712 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:47:05.462 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?gender=female&id=23&status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:47:05.966 [main] DEBUG com.intuit.karate - response time in milliseconds: 499
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:47:06 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"7d0fad3944b5884d753950e7824069d3"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 3e4ac9c2-e35e-4d73-a2b6-347384eacc16
+1 < x-runtime: 0.016593
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JGAMXrjglXUgIJveyoonSjuyhRxsROQZMS%2FPmsX4STpujPPuTRUv0PkiSlhdqqc2VuA60Owf2ShClO1fx%2FFP2BRSSXN9OCPzHbDdJQhGi%2BOnUM98LVPK4aQnExv1i2s%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764487aa9e2291b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":0,"pages":0,"page":1,"limit":10,"links":{"previous":null,"current":null,"next":null}}},"data":[]}
+
+17:47:05.975 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 0,
+      "pages": 0,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": null,
+        "next": null
+      }
+    }
+  },
+  "data": [
+  ]
+}
+ 
+17:47:06.574 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/GetApiWithQuery.feature
+17:51:43.208 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:51:43.214 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667472703213
+17:51:44.094 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:51:44.880 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?gender=female&id=23&status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:51:45.447 [main] DEBUG com.intuit.karate - response time in milliseconds: 564
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:51:46 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"7d0fad3944b5884d753950e7824069d3"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 90eb952e-6ae4-413a-a3a1-ab6518b3a3e7
+1 < x-runtime: 0.018629
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SdnRkQVelZ%2BWpGbj09KXYILj%2FyKSIo8RiI97S3ugV%2FZwwLOa4EVsAI04c1%2FK77vZy6CgHFpiKmfbhFcyb2mup9dLBZnU%2B6KCh6VefRCjl6qEfKmlOhsUOsfebED%2FzzU%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76448e7cadca91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":0,"pages":0,"page":1,"limit":10,"links":{"previous":null,"current":null,"next":null}}},"data":[]}
+
+17:51:45.453 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 0,
+      "pages": 0,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": null,
+        "next": null
+      }
+    }
+  },
+  "data": [
+  ]
+}
+ 
+17:51:45.459 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:51:45.464 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:51:45.790 [main] DEBUG com.intuit.karate - response time in milliseconds: 325
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:51:46 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"48a5ce8f25108b6bc284a098a283f50b"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 8372da7e-b37a-464b-b387-439b3e7afb23
+1 < x-runtime: 0.019953
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CUkSNXjXqD1KCo%2FITsdV%2BMb9PmUWMKbLu2z%2BtGGekcRDzuJVKKptLJLP3XzjocslAUA6CZaOrqjrnzj9Z%2BLJineasy2vieVF8HpcoJeewfUlk6k6FzqKvgl5JtkVeDQ%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76448e7f0b9b91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":1709,"pages":171,"page":1,"limit":10,"links":{"previous":null,"current":"https://gorest.co.in/public/v1/users?page=1","next":"https://gorest.co.in/public/v1/users?page=2"}}},"data":[{"id":3393,"name":"Sen. Gajaadhar Johar","email":"johar_gajaadhar_sen@mcdermott.net","gender":"female","status":"active"},{"id":3392,"name":"Dhara Varma","email":"varma_dhara@kuvalis.biz","gender":"male","status":"active"},{"id":3391,"name":"Vrund Butt","email":"vrund_butt@fay.name","gender":"female","status":"active"},{"id":3390,"name":"Sukanya Khanna","email":"khanna_sukanya@reynolds.net","gender":"male","status":"active"},{"id":3389,"name":"Mr. Tanya Desai","email":"mr_desai_tanya@grant.co","gender":"male","status":"active"},{"id":3386,"name":"Chinmayanand Bharadwaj IV","email":"chinmayanand_bharadwaj_iv@torphy.net","gender":"male","status":"active"},{"id":3385,"name":"Aaryan Chattopadhyay","email":"aaryan_chattopadhyay@heidenreich.co","gender":"female","status":"active"},{"id":3382,"name":"Aanandaswarup Prajapat","email":"prajapat_aanandaswarup@hayes-prohaska.com","gender":"male","status":"active"},{"id":3381,"name":"Siddhi Kaul","email":"siddhi_kaul@lebsack-borer.name","gender":"male","status":"active"},{"id":3380,"name":"Aagneya Somayaji LLD","email":"somayaji_lld_aagneya@corkery-stracke.co","gender":"female","status":"active"}]}
+
+17:51:45.793 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 1709,
+      "pages": 171,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 3393,
+      "name": "Sen. Gajaadhar Johar",
+      "email": "johar_gajaadhar_sen@mcdermott.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3392,
+      "name": "Dhara Varma",
+      "email": "varma_dhara@kuvalis.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3391,
+      "name": "Vrund Butt",
+      "email": "vrund_butt@fay.name",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3390,
+      "name": "Sukanya Khanna",
+      "email": "khanna_sukanya@reynolds.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3389,
+      "name": "Mr. Tanya Desai",
+      "email": "mr_desai_tanya@grant.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3386,
+      "name": "Chinmayanand Bharadwaj IV",
+      "email": "chinmayanand_bharadwaj_iv@torphy.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3385,
+      "name": "Aaryan Chattopadhyay",
+      "email": "aaryan_chattopadhyay@heidenreich.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3382,
+      "name": "Aanandaswarup Prajapat",
+      "email": "prajapat_aanandaswarup@hayes-prohaska.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3381,
+      "name": "Siddhi Kaul",
+      "email": "siddhi_kaul@lebsack-borer.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3380,
+      "name": "Aagneya Somayaji LLD",
+      "email": "somayaji_lld_aagneya@corkery-stracke.co",
+      "gender": "female",
+      "status": "active"
+    }
+  ]
+}
+ 
+17:51:45.797 [main] INFO  com.intuit.karate - [print] 10 
+17:51:46.430 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/GetApiWithQuery.feature
+17:52:59.277 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:52:59.280 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667472779280
+17:53:00.117 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:53:00.939 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?gender=female&id=23&status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:53:01.462 [main] DEBUG com.intuit.karate - response time in milliseconds: 520
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:53:02 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"7d0fad3944b5884d753950e7824069d3"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 78b8f847-e216-43c2-8f50-1b0aac4e424a
+1 < x-runtime: 0.017562
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SJrF1JHiUUykGI%2BRAJl0yeOT02JSBqkEgahwEB4XcNfctUb5yXjAkVcwAb%2BV9lYtAmSS4yvnmqxYdVd863SF4uSiiA8fLU42rML3x8HYl2%2BB2pEwlqOGnaXoMWjJ%2Bb8%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764490588e9c91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":0,"pages":0,"page":1,"limit":10,"links":{"previous":null,"current":null,"next":null}}},"data":[]}
+
+17:53:01.469 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 0,
+      "pages": 0,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": null,
+        "next": null
+      }
+    }
+  },
+  "data": [
+  ]
+}
+ 
+17:53:01.477 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:53:01.481 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:53:01.705 [main] DEBUG com.intuit.karate - response time in milliseconds: 223
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:53:02 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"666a2fc48d89f5ab83176c45135b3939"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 8ebdd94c-d4ad-4106-a27f-826e2eb5be21
+1 < x-runtime: 0.022347
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=adRq5buzj3YOHELeGeRYTTzG%2Bg1S18B8w17tToTnsJM%2BhsPZJUSbAjvWeq0nG9%2FP7Fckb%2BYkbz0yA2iyCkXmD%2Bq1Bb9iG0bpPX87H9s2H63zDlqOXh%2Fp0BApKxIG2F0%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644905a18cc91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":1708,"pages":171,"page":1,"limit":10,"links":{"previous":null,"current":"https://gorest.co.in/public/v1/users?page=1","next":"https://gorest.co.in/public/v1/users?page=2"}}},"data":[{"id":3393,"name":"Sen. Gajaadhar Johar","email":"johar_gajaadhar_sen@mcdermott.net","gender":"female","status":"active"},{"id":3392,"name":"Dhara Varma","email":"varma_dhara@kuvalis.biz","gender":"male","status":"active"},{"id":3391,"name":"Vrund Butt","email":"vrund_butt@fay.name","gender":"female","status":"active"},{"id":3390,"name":"Sukanya Khanna","email":"khanna_sukanya@reynolds.net","gender":"male","status":"active"},{"id":3389,"name":"Mr. Tanya Desai","email":"mr_desai_tanya@grant.co","gender":"male","status":"active"},{"id":3386,"name":"Chinmayanand Bharadwaj IV","email":"chinmayanand_bharadwaj_iv@torphy.net","gender":"male","status":"active"},{"id":3385,"name":"Aaryan Chattopadhyay","email":"aaryan_chattopadhyay@heidenreich.co","gender":"female","status":"active"},{"id":3382,"name":"Aanandaswarup Prajapat","email":"prajapat_aanandaswarup@hayes-prohaska.com","gender":"male","status":"active"},{"id":3381,"name":"Siddhi Kaul","email":"siddhi_kaul@lebsack-borer.name","gender":"male","status":"active"},{"id":3380,"name":"Aagneya Somayaji LLD","email":"somayaji_lld_aagneya@corkery-stracke.co","gender":"female","status":"active"}]}
+
+17:53:01.709 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 1708,
+      "pages": 171,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 3393,
+      "name": "Sen. Gajaadhar Johar",
+      "email": "johar_gajaadhar_sen@mcdermott.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3392,
+      "name": "Dhara Varma",
+      "email": "varma_dhara@kuvalis.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3391,
+      "name": "Vrund Butt",
+      "email": "vrund_butt@fay.name",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3390,
+      "name": "Sukanya Khanna",
+      "email": "khanna_sukanya@reynolds.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3389,
+      "name": "Mr. Tanya Desai",
+      "email": "mr_desai_tanya@grant.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3386,
+      "name": "Chinmayanand Bharadwaj IV",
+      "email": "chinmayanand_bharadwaj_iv@torphy.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3385,
+      "name": "Aaryan Chattopadhyay",
+      "email": "aaryan_chattopadhyay@heidenreich.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3382,
+      "name": "Aanandaswarup Prajapat",
+      "email": "prajapat_aanandaswarup@hayes-prohaska.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3381,
+      "name": "Siddhi Kaul",
+      "email": "siddhi_kaul@lebsack-borer.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3380,
+      "name": "Aagneya Somayaji LLD",
+      "email": "somayaji_lld_aagneya@corkery-stracke.co",
+      "gender": "female",
+      "status": "active"
+    }
+  ]
+}
+ 
+17:53:01.716 [main] INFO  com.intuit.karate - [print] 10 
+17:53:01.717 [main] INFO  com.intuit.karate - [print] null 
+17:53:02.500 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/GetApiWithQuery.feature
+17:57:31.244 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:57:31.421 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667473051247
+17:57:32.285 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:57:33.058 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?gender=female&id=23&status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:57:33.631 [main] DEBUG com.intuit.karate - response time in milliseconds: 570
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:57:34 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"7d0fad3944b5884d753950e7824069d3"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 5f8d2b4a-f747-4dca-a24f-b50c8053ef76
+1 < x-runtime: 0.015764
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gQFX0Fs%2FV7mKEbSfH0dCfT6QYCSpK8BIuyxMLniLhdq01aXowdj%2BvbJCGo24v%2FY68EBecXjbtQhiOcgsgqXg%2FTBVqg0C8QrT5vQxB%2BnQyGmAK6HvJt%2FmejbSIt4oon8%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764496fcfc1091b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":0,"pages":0,"page":1,"limit":10,"links":{"previous":null,"current":null,"next":null}}},"data":[]}
+
+17:57:33.636 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 0,
+      "pages": 0,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": null,
+        "next": null
+      }
+    }
+  },
+  "data": [
+  ]
+}
+ 
+17:57:33.643 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:57:33.646 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users?status=active
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:57:33.979 [main] DEBUG com.intuit.karate - response time in milliseconds: 333
+1 < 200
+1 < Date: Thu, 03 Nov 2022 10:57:34 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"666a2fc48d89f5ab83176c45135b3939"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: 94fb2e8f-2866-480c-bd25-1fc6ecfda83d
+1 < x-runtime: 0.021415
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3z3yKQProckRA%2BNiXzpAw%2BcKeOjcQrgK3RLWh06kFRFrGuYNXbmNsE%2F1IarYLPROSvXzlbcc53ll8hXnf3TPWt0jDofcjkuzx9ls4zoV1V3G7En9BMPHU0kFRb3NZtY%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764496ff2f0d91b4-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":{"pagination":{"total":1708,"pages":171,"page":1,"limit":10,"links":{"previous":null,"current":"https://gorest.co.in/public/v1/users?page=1","next":"https://gorest.co.in/public/v1/users?page=2"}}},"data":[{"id":3393,"name":"Sen. Gajaadhar Johar","email":"johar_gajaadhar_sen@mcdermott.net","gender":"female","status":"active"},{"id":3392,"name":"Dhara Varma","email":"varma_dhara@kuvalis.biz","gender":"male","status":"active"},{"id":3391,"name":"Vrund Butt","email":"vrund_butt@fay.name","gender":"female","status":"active"},{"id":3390,"name":"Sukanya Khanna","email":"khanna_sukanya@reynolds.net","gender":"male","status":"active"},{"id":3389,"name":"Mr. Tanya Desai","email":"mr_desai_tanya@grant.co","gender":"male","status":"active"},{"id":3386,"name":"Chinmayanand Bharadwaj IV","email":"chinmayanand_bharadwaj_iv@torphy.net","gender":"male","status":"active"},{"id":3385,"name":"Aaryan Chattopadhyay","email":"aaryan_chattopadhyay@heidenreich.co","gender":"female","status":"active"},{"id":3382,"name":"Aanandaswarup Prajapat","email":"prajapat_aanandaswarup@hayes-prohaska.com","gender":"male","status":"active"},{"id":3381,"name":"Siddhi Kaul","email":"siddhi_kaul@lebsack-borer.name","gender":"male","status":"active"},{"id":3380,"name":"Aagneya Somayaji LLD","email":"somayaji_lld_aagneya@corkery-stracke.co","gender":"female","status":"active"}]}
+
+17:57:33.982 [main] INFO  com.intuit.karate - [print] {
+  "meta": {
+    "pagination": {
+      "total": 1708,
+      "pages": 171,
+      "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 3393,
+      "name": "Sen. Gajaadhar Johar",
+      "email": "johar_gajaadhar_sen@mcdermott.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3392,
+      "name": "Dhara Varma",
+      "email": "varma_dhara@kuvalis.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3391,
+      "name": "Vrund Butt",
+      "email": "vrund_butt@fay.name",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3390,
+      "name": "Sukanya Khanna",
+      "email": "khanna_sukanya@reynolds.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3389,
+      "name": "Mr. Tanya Desai",
+      "email": "mr_desai_tanya@grant.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3386,
+      "name": "Chinmayanand Bharadwaj IV",
+      "email": "chinmayanand_bharadwaj_iv@torphy.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3385,
+      "name": "Aaryan Chattopadhyay",
+      "email": "aaryan_chattopadhyay@heidenreich.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3382,
+      "name": "Aanandaswarup Prajapat",
+      "email": "prajapat_aanandaswarup@hayes-prohaska.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3381,
+      "name": "Siddhi Kaul",
+      "email": "siddhi_kaul@lebsack-borer.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3380,
+      "name": "Aagneya Somayaji LLD",
+      "email": "somayaji_lld_aagneya@corkery-stracke.co",
+      "gender": "female",
+      "status": "active"
+    }
+  ]
+}
+ 
+17:57:33.986 [main] INFO  com.intuit.karate - [print] 10 
+17:57:34.614 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/GetApiWithQuery.feature
+18:26:35.702 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:26:35.705 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667474795705
+18:26:36.528 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:26:37.175 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Content-Type: text/xml;charset=ISO-8859-1
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Expect: 100-continue
+1 > User-Agent: Mozilla/4.0(compatible;IE;GACv7. 1. 5192. 22378)
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Host: gorest.co.in
+
+
+18:26:37.696 [main] DEBUG com.intuit.karate - response time in milliseconds: 517
+1 < 200
+1 < Date: Thu, 03 Nov 2022 11:26:38 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: 6daac1ef-71eb-4bf5-9dd1-0fbc9cfc94fb
+1 < x-runtime: 0.075387
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AXB%2B8O0ZUarGXogjwpmioxJ26ElJ3KL9EAWgT6MYv6S1BGkM4VGKH0VzwUr6dFIgWoEaw7LS%2BkZKT4izfvvoeSlCfa2ISCieauUvXZq3I2iwpsjtFaz7ivE0%2BkTZarQ%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644c1918b3187a0-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+18:26:37.804 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+18:26:37.812 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:26:37.833 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Content-Type: text/xml;charset=ISO-8859-1
+1 > Connection: Keep-Alive
+1 > User-Agent: Mozilla/4.0(compatible;IE;GACv7 1 5192 22378)
+1 > Host: gorest.co.in
+1 > Accept-Encoding: gzip,deflate
+
+
+18:26:38.053 [main] DEBUG com.intuit.karate - response time in milliseconds: 219
+1 < 200
+1 < Date: Thu, 03 Nov 2022 11:26:38 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: dac010f0-4a6e-4729-a597-a67f06b75b14
+1 < x-runtime: 0.009353
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CpAome0krHLT%2FciurD853Z5%2F04vCc1unfbfGumINFuACZ4IlO8xmo2rBOfWJrPDQJRdnMKq5cWFlA9kD%2FJ8AQvNekjVXD0Sv%2BPuNCT%2BhXu%2BNTmRyHu6iv6CFOMa4EQM%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644c19458984739-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+18:26:38.058 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+18:26:38.075 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:26:38.084 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Content-Type: text/xml;charset=ISO-8859-1
+1 > Connection: Keep-Alive
+1 > User-Agent: Mozilla/4.0(compatible;IE;GACv7 1 5192 22378)
+1 > Host: gorest.co.in
+1 > Accept-Encoding: gzip,deflate
+
+
+18:26:38.276 [main] DEBUG com.intuit.karate - response time in milliseconds: 190
+1 < 200
+1 < Date: Thu, 03 Nov 2022 11:26:39 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-request-id: b85f729f-e697-4c98-b785-eac8a2ca72c2
+1 < x-runtime: 0.008929
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AehDEWGliS0hnPheQWemu%2BLKEywjDyb9YJC4Nwk%2BrmPO0KsKXjKAxOIU3uSfG1GN%2FRtkZHdyfWZItYFVS6fJOE%2F2iTLXbCM0NBUNUo3DFPmKT77%2Bo3raLLvJRdJ4FuI%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7644c195ce64a054-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+18:26:38.279 [main] INFO  com.intuit.karate - [print] {
+  "meta": null,
+  "data": {
+    "id": 30,
+    "name": "Agnimitra Saini",
+    "email": "agnimitra_saini@smith-cummings.io",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
+ 
+18:26:38.851 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/Headers.feature
+22:31:02.501 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:31:02.508 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667489462507
+22:31:03.973 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:31:04.080 [main] ERROR com.intuit.karate - src/test/java/features/AuthToken.feature:4
+* print tokenID
+js failed:
+>>>>
+01: karate.log('[print]',tokenID)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "tokenID" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/AuthToken.feature:4
+22:31:05.321 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/AuthToken.feature
+22:31:51.483 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:31:51.489 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667489511488
+22:31:52.949 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:31:53.025 [main] INFO  com.intuit.karate - [print] 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33 
+22:31:54.156 [main] DEBUG com.intuit.karate - request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+
+
+22:31:54.887 [main] DEBUG com.intuit.karate - response time in milliseconds: 728
+1 < 200
+1 < Date: Thu, 03 Nov 2022 15:31:55 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"5374b4171f0d75ddb19af2d6d6db8520"
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: 61d17e56-1f5c-46fa-94e5-366991887070
+1 < x-runtime: 0.058517
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lQj8HMzP9%2BiiTtkXieAQkcOR1Bqc3OLnvKmxQtr9qkDtI7NxLuos7GWBcUgkZYxXWDZnhFZbMeJV6762elLIiCNQU%2FS5jnQa1YugMq4jM5pNamIPQhZII1IWce7H8gM%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764628dce8bd8833-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":30,"name":"Agnimitra Saini","email":"agnimitra_saini@smith-cummings.io","gender":"female","status":"inactive"}}
+
+22:31:55.941 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/AuthToken.feature
+22:54:43.468 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:54:43.475 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667490883474
+22:54:44.930 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:54:46.293 [main] DEBUG com.intuit.karate - request:
+1 > POST https://gorest.co.in/public/v1/users
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 74
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+{"name":"tom","email":"tom24@gmail.com","gender":"male","status":"active"}
+
+22:54:47.253 [main] DEBUG com.intuit.karate - response time in milliseconds: 957
+1 < 201
+1 < Date: Thu, 03 Nov 2022 15:54:47 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"13f8d362cc6291799de21204866feb42"
+1 < location: https://gorest.co.in/public/v1/users/4542
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: 55404b01-de52-4d56-a07f-ad718746841a
+1 < x-runtime: 0.166956
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sl7u%2BPAnF0q1JTM2SxKAIxMsDrdPwBPHBnSoRe5wbTtsQQeY0nQcVepAX2mCLaG7sKn2k12iYfZ38ACGRQQ6O1g76Nv01ynz4TPQ5odmjLY5YyFArDgxdc%2BrCStq3O8%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76464a5d68208962-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":4542,"name":"tom","email":"tom24@gmail.com","gender":"male","status":"active"}}
+
+22:54:48.382 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/PostAPI.feature
+22:57:16.467 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:57:16.474 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667491036473
+22:57:17.949 [main] INFO  com.intuit.karate - karate.env system property was: null 
+22:57:19.360 [main] DEBUG com.intuit.karate - request:
+1 > POST https://gorest.co.in/public/v1/users
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 74
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+{"name":"tom","email":"tom24@gmail.com","gender":"male","status":"active"}
+
+22:57:20.134 [main] DEBUG com.intuit.karate - response time in milliseconds: 772
+1 < 422
+1 < Date: Thu, 03 Nov 2022 15:57:20 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: 0df57697-c26a-4667-b237-defb49e588b0
+1 < x-runtime: 0.049984
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oI0YKnHEk8tpLCAbbtbRMoaXNTJVC9a7MH%2BcRkIcU1xai2FW0W5e7S4qYaZrkTengJ%2F77zrstAp3mRgjhE3Cju8iyxMUwpa11pA%2B3SkPXr1heGtpyEvAfAfPDMCBAl0%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 76464e19aa96a3da-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":[{"field":"email","message":"has already been taken"}]}
+
+22:57:20.156 [main] ERROR com.intuit.karate - src/test/java/features/PostAPI.feature:20
+Then status 201
+status code was: 422, expected: 201, response time in milliseconds: 772, url: https://gorest.co.in/public/v1/users, response: 
+{"meta":null,"data":[{"field":"email","message":"has already been taken"}]}
+src/test/java/features/PostAPI.feature:20
+22:57:21.250 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostAPI.feature
+10:21:53.241 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:21:53.349 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667532113348
+10:21:54.805 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:21:54.981 [main] INFO  com.intuit.karate - [print] TTSxKxgJLw 
+10:21:55.091 [main] INFO  com.intuit.karate - [print] {
+  "name": "tom",
+  "gender": "male",
+  "status": "active",
+  "email": "TTSxKxgJLw@gmail.com"
+}
+ 
+10:21:56.395 [main] DEBUG com.intuit.karate - request:
+1 > POST https://gorest.co.in/public/v1/users
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 79
+1 > Host: gorest.co.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+1 > Accept-Encoding: gzip,deflate
+{"name":"tom","gender":"male","status":"active","email":"TTSxKxgJLw@gmail.com"}
+
+10:21:57.192 [main] DEBUG com.intuit.karate - response time in milliseconds: 794
+1 < 201
+1 < Date: Fri, 04 Nov 2022 03:21:58 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < etag: W/"147ef975ad3a7596116cb78b7cfc3b82"
+1 < location: https://gorest.co.in/public/v1/users/3551
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: a21f46d5-adc7-48ed-8092-340e8b6d388d
+1 < x-runtime: 0.106231
+1 < x-xss-protection: 0
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Rdk7LVFkvf1gDcsFV0BjC8s%2FUs9EJ8TwEsjyKz3cNWcGnV21xyI%2B89mFX5etGpN2oaivCI50HT7fu6gFjdrDZNN6ucOdeKHiSKp6OaYyNfHGjyzcxBYpIt9wIP6yAAs%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 764a38fb69549fe5-SIN
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"meta":null,"data":{"id":3551,"name":"tom","email":"TTSxKxgJLw@gmail.com","gender":"male","status":"active"}}
+
+10:21:58.340 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/features/RandomEmail.feature
+10:45:50.417 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:45:50.423 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667533550422
+10:45:51.858 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:45:52.006 [main] INFO  com.intuit.karate - [print] DUIpkNelUG 
+10:45:52.055 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+10:45:53.303 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+10:47:03.678 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:47:03.684 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667533623683
+10:47:05.078 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:47:05.230 [main] INFO  com.intuit.karate - [print] ibXPspDqbc 
+10:47:05.271 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+10:47:06.523 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+10:47:46.445 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:47:46.451 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667533666451
+10:47:47.855 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:47:48.004 [main] INFO  com.intuit.karate - [print] hVQHjdEacN 
+10:47:48.045 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:/src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:/src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: /src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+10:47:49.312 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+10:57:33.335 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:57:33.342 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667534253341
+10:57:34.756 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:57:34.899 [main] INFO  com.intuit.karate - [print] ivTUkbGOyo 
+10:57:34.938 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+10:57:36.178 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:09:54.330 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:09:54.336 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667534994335
+11:09:55.763 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:09:55.908 [main] INFO  com.intuit.karate - [print] OUIkyUccVr 
+11:09:55.950 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = call read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:09:57.189 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:16:25.469 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:16:25.476 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667535385475
+11:16:26.880 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:16:27.027 [main] INFO  com.intuit.karate - [print] TqpFVGfeyB 
+11:16:27.068 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:16:28.369 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:17:58.632 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:17:58.639 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667535478639
+11:18:00.103 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:18:00.264 [main] INFO  com.intuit.karate - [print] zlRHjtpuAL 
+11:18:00.304 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = karate.readAsString('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: karate.readAsString('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioBridge.readAsString(ScenarioBridge.java:709)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:18:01.521 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:19:19.927 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:19:19.936 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667535559936
+11:19:21.375 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:19:21.524 [main] INFO  com.intuit.karate - [print] ATrsDSDVkT 
+11:19:21.562 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = callonce read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:19:22.822 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:22:24.897 [main] INFO  com.intuit.karate.Runner - waiting for parallel features to complete ...
+11:22:25.084 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - karate.env system property was:  
+11:22:25.232 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] mIlxiaClsV
+11:22:25.248 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] {
+  "name": "tom",
+  "gender": "male",
+  "status": "active",
+  "email": "mIlxiaClsV@gmail.com"
+}
+
+11:22:26.357 [ForkJoinPool-1-worker-1] DEBUG com.intuit.karate - request:
+1 > POST https://gorest.co.in/public/v1/users
+1 > Accept-Encoding: gzip,deflate
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Connection: Keep-Alive
+1 > Content-Length: 79
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: gorest.co.in
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+{"name":"tom","gender":"male","status":"active","email":"mIlxiaClsV@gmail.com"}
+
+11:22:27.072 [ForkJoinPool-1-worker-1] DEBUG com.intuit.karate - response time in milliseconds: 712.57
+1 < 201
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 764a91997dd94af6-SIN
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 04 Nov 2022 04:22:28 GMT
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dFDHaX8gu2QvIOunc5qKZ%2F%2B7FQtC9I%2FAL7NbOIuRiSUgjzmFvTK0gR%2BlD9Gdil%2BvZ3vhwyJcznKziSYzm9atb9HEmZ2hCXWnDzyHpV4lXw0u1jg7Eqc7BCc%2FraO4LQE%3D"}],"group":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < etag: W/"a04b8b9d4d28654d9efc42af8e63996c"
+1 < location: https://gorest.co.in/public/v1/users/3568
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: ab211d06-363d-4559-87df-44fd6e13bb2b
+1 < x-runtime: 0.095846
+1 < x-xss-protection: 0
+{"meta":null,"data":{"id":3568,"name":"tom","email":"mIlxiaClsV@gmail.com","gender":"male","status":"active"}}
+
+11:22:27.207 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: src/test/java/features/PostJsonFile.feature
+11:31:37.342 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:31:37.349 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667536297348
+11:31:39.077 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:31:39.247 [main] INFO  com.intuit.karate - [print] fEWWiNdxIi 
+11:31:39.283 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read("../src/test/resources/payload/user.json")
+js failed:
+>>>>
+01: read("../src/test/resources/payload/user.json")
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: F:\AUTOMATION\KarateFramwork\src\test\java\features\..\src\test\resources\payload\user.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:31:40.743 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:33:21.048 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:33:21.056 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667536401055
+11:33:22.607 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:33:22.774 [main] INFO  com.intuit.karate - [print] AiTySHHnqm 
+11:33:22.817 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath: ../src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath: ../src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found:  ../src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:33:23.996 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:35:10.999 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:35:11.005 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667536511005
+11:35:12.417 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:35:12.562 [main] INFO  com.intuit.karate - [print] xfjjbexHlP 
+11:35:12.594 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('../user.json')
+js failed:
+>>>>
+01: read('../user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: F:\AUTOMATION\KarateFramwork\src\test\java\features\..\user.json (The system cannot find the file specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:35:13.909 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:39:46.072 [main] INFO  com.intuit.karate.Runner - waiting for parallel features to complete ...
+11:39:46.259 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - karate.env system property was:  
+11:39:46.402 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] TTirDMTAxK
+11:39:46.539 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: src/test/java/features/PostJsonFile.feature
+11:41:11.919 [main] INFO  com.intuit.karate.Runner - waiting for parallel features to complete ...
+11:41:12.102 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - karate.env system property was:  
+11:41:12.244 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] mMjSsHQLYE
+11:41:12.379 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: src/test/java/features/PostJsonFile.feature
+11:50:17.766 [main] INFO  com.intuit.karate.Runner - waiting for parallel features to complete ...
+11:50:17.972 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - karate.env system property was:  
+11:50:18.136 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] aULZWVZGmF
+11:50:18.305 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: src/test/java/features/PostJsonFile.feature
+11:52:30.550 [main] INFO  com.intuit.karate.Runner - waiting for parallel features to complete ...
+11:52:30.732 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - karate.env system property was:  
+11:52:30.872 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] OBmzeyOQbD
+11:52:31.014 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: src/test/java/features/PostJsonFile.feature
+11:57:39.031 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:57:39.037 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667537859036
+11:57:40.523 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:57:40.664 [main] INFO  com.intuit.karate - [print] YvPwwIEVNf 
+11:57:40.706 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:/src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:/src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: /src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:57:41.953 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:58:07.712 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:58:07.723 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667537887722
+11:58:09.165 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:58:09.317 [main] INFO  com.intuit.karate - [print] XpZkGzKgjE 
+11:58:09.349 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('file:/src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('file:/src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: /src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:124)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:130)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+11:58:10.595 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+11:59:58.131 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+11:59:58.138 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667537998137
+11:59:59.558 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:59:59.701 [main] INFO  com.intuit.karate - [print] ZFVCdRxGwY 
+11:59:59.738 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('/src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('/src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: F:\AUTOMATION\KarateFramwork\src\test\java\features\src\test\resources\payload\user.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+12:00:01.008 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+12:04:58.533 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+12:04:58.644 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667538298539
+12:05:00.073 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:05:00.221 [main] INFO  com.intuit.karate - [print] dqgazgKiWM 
+12:05:00.247 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = call('classpath:/src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: call('classpath:/src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "call" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+12:05:01.606 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+12:08:37.090 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+12:08:37.096 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667538517096
+12:08:38.535 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:08:38.679 [main] INFO  com.intuit.karate - [print] ufRBdazWIl 
+12:08:38.718 [main] ERROR com.intuit.karate - src/test/java/features/PostJsonFile.feature:18
+* def requestPayload = read('classpath:src/test/resources/payload/user.json')
+js failed:
+>>>>
+01: read('classpath:src/test/resources/payload/user.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: src/test/resources/payload/user.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:118)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:128)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:102)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:56)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:129)
+- <js>.:program(Unnamed:1)
+
+src/test/java/features/PostJsonFile.feature:18
+12:08:39.983 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/features/PostJsonFile.feature
+12:15:19.276 [main] INFO  com.intuit.karate.Runner - waiting for parallel features to complete ...
+12:15:19.469 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - karate.env system property was:  
+12:15:19.608 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] igstOLMimE
+12:15:19.629 [ForkJoinPool-1-worker-1] INFO  com.intuit.karate - [print] {
+  "name": "tom",
+  "gender": "male",
+  "status": "active",
+  "email": "igstOLMimE@gmail.com"
+}
+
+12:15:20.933 [ForkJoinPool-1-worker-1] DEBUG com.intuit.karate - request:
+1 > POST https://gorest.co.in/public/v1/users
+1 > Accept-Encoding: gzip,deflate
+1 > Authorization: Bearer 007526d9efdbc07e084ff7a6d4cfcc90588fbe20641c00faebf45a7f3b2eaf33
+1 > Connection: Keep-Alive
+1 > Content-Length: 79
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: gorest.co.in
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/1.8.0_351)
+{"name":"tom","gender":"male","status":"active","email":"igstOLMimE@gmail.com"}
+
+12:15:21.713 [ForkJoinPool-1-worker-1] DEBUG com.intuit.karate - response time in milliseconds: 777.78
+1 < 201
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 764adf1bac9a87f3-SIN
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 04 Nov 2022 05:15:22 GMT
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WKGc5Bp%2FgWPX4GNjBxsXOMP1LmoZD7mRDDQtkeMA%2Bu%2Fy5jAAY3HKROW2OjZ65DBwg7wDBNaj5nOljKoOv1SAAmETGWC6N9b7m3trRHBUxzzjDnDfmgsWjXlpPdWgFDk%3D"}],"group":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < etag: W/"197f1fdd70cc00a73351aea93497bc80"
+1 < location: https://gorest.co.in/public/v1/users/3626
+1 < referrer-policy: strict-origin-when-cross-origin
+1 < vary: Origin
+1 < x-content-type-options: nosniff
+1 < x-download-options: noopen
+1 < x-frame-options: SAMEORIGIN
+1 < x-permitted-cross-domain-policies: none
+1 < x-ratelimit-limit: 90
+1 < x-ratelimit-remaining: 89
+1 < x-ratelimit-reset: 1
+1 < x-request-id: d4e62888-3dfa-4456-a1c8-caf2ddb69c1d
+1 < x-runtime: 0.072101
+1 < x-xss-protection: 0
+{"meta":null,"data":{"id":3626,"name":"tom","email":"igstOLMimE@gmail.com","gender":"male","status":"active"}}
+
+12:15:21.815 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: src/test/java/features/PostJsonFile.feature

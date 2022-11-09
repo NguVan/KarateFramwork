@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Karate Timeline</title>
+    <style>
+      body, html { font-family: arial, sans-serif; font-size: 11pt; }
+      #visualization { box-sizing: border-box; width: 100%; height: 300px; }
+      .vis-item.failed { background-color: #F2928C; }
+      .page-heading { padding: 0.5em; margin-bottom: 0.5em; background-color: lightcyan; border: 1px solid gray; }
+    </style>
+    <script src="res/vis.min.js"></script>
+    <link href="res/vis.min.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="page-heading">
+      <a href="karate-summary.html">Summary</a>
+    </div>     
+    <div id="visualization"></div>
+    <script>
+var groups = [{"content":"main","id":1}];
+var items = [{"id":1,"group":1,"content":"features\/Json[1:3]","start":1667457768873,"end":1667457768920,"title":"features\/Json[1:3] 13:42:48.873-13:42:48.920 Json reader parse"},{"id":2,"group":1,"content":"features\/Json[2:25]","start":1667457768928,"end":1667457768930,"title":"features\/Json[2:25] 13:42:48.928-13:42:48.930"},{"id":3,"group":1,"content":"features\/getAPI[1:3]","start":1667457766826,"end":1667457767888,"title":"features\/getAPI[1:3] 13:42:46.826-13:42:47.888 get user details"},{"id":4,"group":1,"content":"features\/getAPI[2:10]","start":1667457767989,"end":1667457768211,"title":"features\/getAPI[2:10] 13:42:47.989-13:42:48.211 get user details- user not found"},{"id":5,"group":1,"content":"features\/Sample[1:3]","start":1667457769021,"end":1667457769021,"title":"features\/Sample[1:3] 13:42:49.021-13:42:49.021 hello world scenario"},{"id":6,"group":1,"content":"features\/Sample[2:6]","start":1667457769038,"end":1667457769043,"title":"features\/Sample[2:6] 13:42:49.038-13:42:49.043 Count scenario"}];
+</script>
+    <script>
+      var container = document.getElementById('visualization');
+      var timeline = new vis.Timeline(container);
+      timeline.setOptions({groupOrder: 'content'});
+      timeline.setGroups(new vis.DataSet(groups));
+      timeline.setItems(new vis.DataSet(items));
+    </script>
+  </body>
+</html>
